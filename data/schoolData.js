@@ -610,21 +610,21 @@ const schoolData = {
     {
       title: "School Introduction",
       thumbnail: "/images/videos/school-introduction.jpg",
-      url: "",
+      url: "https://www.youtube.com/watch?v=2yBA9uC8yP0&t=20s",
       type: "YouTube",
     },
 
     {
       title: "Annual Day",
       thumbnail: "/images/videos/annual-day.jpg",
-      url: "",
+      url: "https://www.youtube.com/watch?v=TIzDFF4DCL0",
       type: "YouTube",
     },
 
     {
       title: "Sports Day",
       thumbnail: "/images/videos/sports-day.jpg",
-      url: "",
+      url: "https://www.youtube.com/watch?v=6X7n-_97kos",
       type: "YouTube",
     },
   ],
